@@ -1,1 +1,3 @@
 pass.txt
+images/*.jpg
+!images/hello.jpg
